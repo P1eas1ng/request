@@ -1,4 +1,1 @@
-{name : 'Request Lib P1eas1ng',
-description : 'Request Lib P1eas1ng php lib',
-license: "proprietary"
-}
+{'name' : 'Request Lib P1eas1ng','description' : 'Request Lib P1eas1ng php lib','license': "proprietary"}
